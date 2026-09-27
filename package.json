@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-phosphor",
+  "private": true,
+  "description": "A midnight code editor with a phosphor caret: charcoal surfaces, hairline edges, pill controls and one green pulse for what you run.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
