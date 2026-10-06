@@ -33,10 +33,14 @@ pill controls and one phosphor-green pulse for what you run.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Phosphor**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Phosphor** under Style Settings → Borozdov Console → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/phosphor/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Phosphor/`, then choose Borozdov Phosphor under
 Settings → Appearance → Themes.
@@ -56,5 +60,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «Уголь» — полуночный редактор
 кода, и светлый «Мел» — тот же редактор на белом. Угольные поверхности, тонкие грани, кнопки
 и теги в виде пилюль, моноширинный JetBrains Mono для кода и метаданных и один
-фосфорно-зелёный импульс для того, что вы запускаете. Устанавливается из каталога:
-Настройки → Оформление → Темы → Настроить → Borozdov Phosphor → Установить и применить.
+фосфорно-зелёный импульс для того, что вы запускаете. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Phosphor в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
